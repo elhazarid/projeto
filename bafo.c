@@ -13,7 +13,7 @@ int main (void)
       //char x[4];
       testen = testen+1;
      
-      scanf("%d",&rodada);
+      scanf("%d",&rojjjjdada);
       if (rodada == 0)
 	{
 	  break;
